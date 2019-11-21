@@ -1,0 +1,3 @@
+C:/Users/pchernichenko/Desktop/Medical/Medical/Build/CMakeFiles/Medical1.dir
+C:/Users/pchernichenko/Desktop/Medical/Medical/Build/CMakeFiles/ALL_BUILD.dir
+C:/Users/pchernichenko/Desktop/Medical/Medical/Build/CMakeFiles/ZERO_CHECK.dir
